@@ -1,7 +1,4 @@
----
-title: TransNet
 
----
 
 ## The Linear System Model and the Channel Matrix **H**
 
@@ -303,10 +300,12 @@ $32 \times 32$ image with two channels (real and imaginary components).
 
 # Transformer architecture for transnet
 
-![image](https://hackmd.io/_uploads/B1RhDoPBZg.png)
+<img width="642" height="390" alt="image" src="https://github.com/user-attachments/assets/2e5e4583-fa99-4133-8b53-963acfdf172b" />
 
 
-![image](https://hackmd.io/_uploads/By5B8sDBZg.png)
+
+<img width="570" height="552" alt="image" src="https://github.com/user-attachments/assets/5f287768-089f-4d01-b97d-9553a1865a59" />
+
 
 ### Detailed Analysis of the Other Layers in Fig. 2
 
